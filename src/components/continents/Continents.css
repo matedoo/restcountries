@@ -1,0 +1,24 @@
+
+.containerContinentsBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.continentsBtn {
+    border-radius: 20px;
+    color: white;
+    background: green;
+    border-style: solid;
+    border-color: green;
+    padding: 0.5rem 1rem;
+    transition: 0.3s;
+}
+
+.continentsBtn:hover {
+    background: white;
+    color: green;
+    border-color: green;
+}
+
