@@ -1,0 +1,13 @@
+.backBtnWrapper {
+    margin: 15px 0 0 20px;
+}
+
+.backBtnIconWrapper {
+    display: flex;
+}
+
+.icon {
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+}
