@@ -1,3 +1,3 @@
 export interface IParamTypes {
-  code: string;
+  name: string;
 }
